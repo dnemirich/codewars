@@ -16,3 +16,5 @@ function bmi(weight, height) {
               : "Obese";
     return answer  
   }
+
+console.log("solution: ", bmi(18.5))
